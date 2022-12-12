@@ -56,7 +56,11 @@ note: There may be periods where neither myself nor anyone else is going to post
 ## Credits
 
 Iryoku for creating the original Infobar Plugin for Windower
+
 Iyouboushi for previous contributions to the Infobar Monster Database (https://iyouffxi.wordpress.com/category/programs/infobar/)
+
 KenshiDRK for the Infobar Addon (https://github.com/KenshiDRK)
+
 The entire Windower Team and all who've made it possible for FFXI to run on modern OSes with few problems! (https://www.windower.net/)
+
 And all contributors not mentioned because I don't know all the names.
