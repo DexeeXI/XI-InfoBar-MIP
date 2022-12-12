@@ -30,24 +30,33 @@ Welcome to what will hopefully be a long term home for the InfoBar Database Mons
 
 The purpose behind this program is to provide for long term support for the database that is used as part of InfoBar.
 
-## History
+All contents of this readme are subject to change. Please review the readme at Github to verify you have the latest Readme.
 
-InfoBar was originally programmed and created as a plugin many years ago, of which it had become abandoned some time around 2012 or so. The idea behind InfoBar was to give the user information of what a target monster in the game has, things such as their expected level range, resistances, immunities, drops, and more. This led to the plugin still being used for many years, despite that neither the plugin nor the database was being maintained. The source code, to the best of my knowledge, had never been released by the original author.
+## Instructions
+### How to Edit the Database
+1) Download the database.db.sql from the main branch
+2) Using your favorite SQL program, import the SQL file (or edit it directly if you like that)
+3) Edit entries in the database. If you need to add a monster that is not included at all, any programs' "insert new record" should place it firmly at the bottom with the "latest" index and id number.
+4) When done, save your changes and export the database as a SQL file.
 
-After some time had passed, KenshiDRK created a LUA-based version of the same InfoBar plugin, allowing for InfoBar to live on in a new format. However, the database was still lacking some entries. Kenshi had done an amazing job of adding in some of the monsters and content that had been implemented since the last major revision of the database. Despite it all, there are still a variety of monsters that have either been added due to new content over the years, adjustments made to existing monsters and much more that have gone unnoticed.
+### How to submit to the Monster Improvement Program
+1) Upload the updated SQL file to a separate branch or a fork.
+2) Create a PR on the github located at https://github.com/DexeeXI/XI-InfoBar-MIP and link the PR to the branch or fork the purposes of submission.
 
-## Today and onward
+### How to use/test an updated monster SQL file
+note: There may be periods where neither myself nor anyone else is going to post an "up to date" database.db file for a quick download and use. This is how one sets up and uses an SQL file.
+1) Download a copy of the latest database.db.sql
+2) Using your favorite SQL program, import the SQL file.
+3) Save the resulting database as "database.db"
+4) Navigate to your Windower/addons/Infobar folder. Create a backup of database.db located within.
+5) Copy/move the database.db file generated to your Windower/Addons/Infobar folder and overwrite the database.db file within.
+6) If FFXI is already running, all you should need to do is (re)target a foe. Changes will be visible immediately as the LUA script for Infobar does not require a reload for a change in the database. If things do not appear correctly, issue a //lua r Infobar to ensure the script is working correctly.
+7) If any bugs are noticed with the display of information, let us know so we can double check and make sure it is our problem and not Infobar's
 
-It brings us to today. I started the initiative, even with my very limited time in FFXI (even after attempting to give XI a go almost 20 years ago now!), because I do appreciate the work of having data available to one self. While throwing yourself head first into a situation can help with the learning experience, sometimes having a quick snippet of information made available to you can the difference in making an informed decision before you go head-first into the jaws of death.
+## Credits
 
-I do not know what KenshiDRK's plans are regarding ongoing development or maintenance of the Windower 4 variety of InfoBar as a LUA addon. I also do not know if there is any intention to bring InfoBar over to Windower 5. But what I do know is that there are others like myself that still use InfoBar today and want to make a change in a good direction.
-
-## Current
-
-We need to figure out what fields in the database we want to keep. Most of it is perfectly fine and doesn't need to change much. But a few extra fields that aren't utilized probably need to go.
-
-We need to figure out if we want JSON or .SQL for assisting with visible tracking, since binaries can't exactly be compared side to side.
-
-Once we've got the groundwork setup, we can move forward with the daunting task of updating/adding monster info. Time consuming, but a work that will be noticed by users and appreciated for, none the less.
-
-Migrated to separate repo to do more proper work and not worry about accidentally PRing into Windower with an incomplete product.
+Iryoku for creating the original Infobar Plugin for Windower
+Iyouboushi for previous contributions to the Infobar Monster Database (https://iyouffxi.wordpress.com/category/programs/infobar/)
+KenshiDRK for the Infobar Addon (https://github.com/KenshiDRK)
+The entire Windower Team and all who've made it possible for FFXI to run on modern OSes with few problems! (https://www.windower.net/)
+And all contributors not mentioned because I don't know all the names.
