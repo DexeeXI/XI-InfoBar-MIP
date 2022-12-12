@@ -44,9 +44,9 @@ I do not know what KenshiDRK's plans are regarding ongoing development or mainte
 
 ## Current
 
-We need to figure out what fields in the database we want to keep. Most of it is perfectly fine and doesn't need to change much. But a few extra fields that aren't utilized probably need to go. Issue #2 is gonna cover that.
+We need to figure out what fields in the database we want to keep. Most of it is perfectly fine and doesn't need to change much. But a few extra fields that aren't utilized probably need to go.
 
-We need to figure out if we want JSON or .SQL for assisting with visible tracking, since binaries can't exactly be compared side to side. Issue #4 for that.
+We need to figure out if we want JSON or .SQL for assisting with visible tracking, since binaries can't exactly be compared side to side.
 
 Once we've got the groundwork setup, we can move forward with the daunting task of updating/adding monster info. Time consuming, but a work that will be noticed by users and appreciated for, none the less.
 
