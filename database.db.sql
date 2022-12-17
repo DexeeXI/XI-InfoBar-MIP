@@ -319,7 +319,7 @@ INSERT INTO "monster" VALUES (273,'Ornery Sheep','Sheep',NULL,'South Gustaberg',
 INSERT INTO "monster" VALUES (274,'Ornery Sheep','Sheep',NULL,'North Gustaberg [S]',0,1,0,0,25,28,1,0,0,0,0,0,0,0,'fire, lightning',NULL,NULL,'Giant Sheep Meat, Sheep Tooth, Sheepskin','Sheep Wool',12,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (275,'Rock Lizard','Lizard','Warrior','North Gustaberg',0,1,0,0,3,8,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Tail','Lizard Tail',22,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (276,'Rock Lizard','Lizard','Warrior','South Gustaberg',0,1,0,0,3,8,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Tail','Lizard Tail',33,'5 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (277,'Rock Lizard','Lizard','Warrior','Dangruf Wadi',0,1,0,0,5,8,0,1,0,0,0,0,0,0,'wind, ice',NULL,NULL,'Lizard Tail','Lizard Tail',26,'16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (277,'Rock Lizard','Lizard','Warrior','Dangruf Wadi',0,1,0,0,5,8,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Tail','Lizard Tail',26,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (278,'Rock Lizard','Lizard','Warrior','North Gustaberg [S]',0,1,0,0,21,23,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Tail, Lizard Egg, Lizard Skin','Lizard Tail',29,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (279,'Amber Quadav','Quadav','Black Mage','North Gustaberg',1,1,0,0,3,8,0,1,0,0,0,0,0,0,'lightning',NULL,NULL,'Ash Clogs, Bronze Cap, Circlet, Cuffs, Fetich Arms, Fetich Head, Fetich Legs, Fetich Torso, Quadav Helm, Scroll of Bind, Scroll of Blind, Scroll of Protectra, Slops','Beastcoin',16,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (280,'Amber Quadav','Quadav','Black Mage','South Gustaberg',1,1,0,0,3,8,0,1,0,0,0,0,0,0,'lightning',NULL,NULL,'Ash Clogs, Bronze Cap, Circlet, Cuffs, Fetich Arms, Fetich Head, Fetich Legs, Fetich Torso, Quadav Helm, Scroll of Bind, Scroll of Blind, Slops','Beastcoin',13,'5 minutes',NULL,NULL,NULL,NULL);
@@ -1199,9 +1199,9 @@ INSERT INTO "monster" VALUES (1172,'Golden Bat','Giant Bat','','Valkurm Dunes',1
 INSERT INTO "monster" VALUES (1173,'Golden Bat','Giant Bat','','Nyzul Isle',1,1,1,0,'???','???',0,1,0,0,0,0,0,0,'',NULL,NULL,'*, Nyzul weapons','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1174,'Legendary Weapon','Evil Weapon','Black Mage','Behemoth''s Dominion',1,0,1,0,65,65,0,1,1,0,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1175,'Ancient Weapon','Evil Weapon','Warrior','Behemoth''s Dominion',1,0,1,0,66,66,0,1,1,0,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (1176,'Carthi','Opo-opo','','Yuhtunga Jungle',0,1,1,0,65,65,1,0,0,0,0,0,0,0,'','ice',NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (1177,'Tipha','Opo-opo','','Yuhtunga Jungle',0,1,1,0,65,65,1,0,0,0,0,0,0,0,'','ice',NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (1178,'Axesarion the Wanderer','Shadow','Warrior','Cape Teriggan',0,1,1,0,69,70,1,0,0,0,0,0,0,0,'',NULL,'drain, aspir','','',9,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1176,'Carthi','Opo-opo','','Yuhtunga Jungle',0,1,1,0,65,65,1,0,0,0,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1177,'Tipha','Opo-opo','','Yuhtunga Jungle',0,1,1,0,65,65,1,0,0,0,0,0,0,1,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1178,'Axesarion the Wanderer','Shadow','Warrior','Cape Teriggan',0,1,1,0,69,70,1,0,0,0,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1179,'Doomed Pilgrims','Doomed','','The Sanctuary of Zi''Tah',0,0,1,0,70,70,0,1,0,0,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1180,'Marsh Sahagin','Sahagin','Monk','Sea Serpent Grotto',1,1,0,0,52,59,0,1,0,0,0,0,0,0,'lightning','water',NULL,'Bastore Sardine, Black Pearl, Cobalt Jellyfish, Grotto Coffer Key, Pamtam Kelp, Quus, Seashell, Shall Shell','Mythril Beastcoin',18,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1181,'Bog Sahagin','Sahagin','Dragoon','Sea Serpent Grotto',1,1,0,0,52,59,0,1,0,0,0,0,0,0,'lightning','water',NULL,'Cobalt Jellyfish, Bastore Sardine, Black Pearl, Grotto Coffer Key, Pamtam Kelp, Quus, Shall Shell, Seashell','Mythril Beastcoin',16,'16 minutes',NULL,NULL,NULL,NULL);
@@ -2082,7 +2082,7 @@ INSERT INTO "monster" VALUES (2063,'Earth Eater','Worm','BLM','Giddeus',1,1,0,0,
 INSERT INTO "monster" VALUES (2064,'Ore Eater','Worm','BLM','Gusgen Mines',0,1,0,0,23,26,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'Copper Ore, Flint Stone, Silver Ore, Zinc Ore','Pebble',15,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2065,'Wyrmfly','Flies','','Maze of Shakhrami',1,1,1,0,9,9,1,0,0,0,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2066,'Pudding','Slimes','','Gusgen Mines',1,0,1,0,9,9,0,1,0,0,0,0,0,1,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (2067,'Necroplasm','Doomed','','Ordelle''s Caves',1,0,1,0,'???','???',0,1,0,1,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (2067,'Necroplasm','Doomed','','Ordelle''s Caves',1,0,1,0,9,9,0,1,0,1,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2068,'Wandering Ghost','Ghosts','Black Mage','Gusgen Mines',1,0,1,0,45,45,0,1,0,1,0,0,0,0,'',NULL,NULL,'Miner''s Pendant','',9,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2069,'Bilopdop','Orcs','Monk','Davoi',1,1,1,0,55,55,1,0,0,0,0,0,0,1,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2070,'Deloknok','Orcs','Paladin','Davoi',1,1,1,0,53,53,1,0,0,0,0,0,0,1,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
@@ -2280,7 +2280,7 @@ INSERT INTO "monster" VALUES (2261,'Ashmaker Gotblut','Orc','Black Mage','La Vau
 INSERT INTO "monster" VALUES (2262,'Starmite','Beetle','Paladin','Toraimarai Canal',1,1,0,0,65,67,1,0,0,0,0,0,0,0,'ice, light',NULL,NULL,'Starmite Shell, Toraimarai Coffer Key, Insect Wing, Beetle Jaw, Beetle Shell','',3,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2263,'Hurricane Wyvern','Wyverns','','Ifrit''s Cauldron',1,0,0,0,75,78,1,0,0,0,0,0,0,0,'dark','fire, wind','light','Wyvern Skin, Wyvern Skull, Wyvern Wing','',7,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2264,'Skull of Pride','Skeleton','','Eldieme Necropolis',1,0,1,0,60,60,0,1,0,1,0,0,0,0,'',NULL,NULL,'Aquamarine, Pride Staff','',9,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (2265,'Pelican','Cockatrice','','Kuftal Tunnel',1,0,1,0,80,81,1,0,0,0,0,0,0,0,'',NULL,NULL,'Astral Aspis, Cockatrice Meat, Cockatrice Skin','',1,'Lottery spawn off Great Cockatrice at (G-9).',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (2265,'Pelican','Cockatrice','','Kuftal Tunnel',1,0,1,0,80,81,1,0,0,0,0,0,0,0,'',NULL,NULL,'Astral Aspis, Cockatrice Meat, Cockatrice Skin','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2266,'Pelican','Cockatrice','','Nyzul Isle',1,0,1,0,'???','???',1,0,0,0,0,0,0,0,'',NULL,NULL,'*, Nyzul weapons','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2267,'Wuu Qoho the Razorclaw','Yagudo','Monk','Dynamis - Windurst',1,1,1,0,'???','???',0,0,0,0,0,1,0,0,'',NULL,NULL,'Relic Armor, Relic Weapons, Tukuku Whiteshell, Colossal Skull, Lancewood Log, Relic Iron, Sparkling Stone','Tukuku Whiteshell',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2268,'Haa Pevi the Stentorian','Yagudo','Summoner','Dynamis - Windurst',1,1,1,0,'???','???',0,0,0,0,0,1,0,0,'',NULL,NULL,'Relic Armor, Relic Weapons, Tukuku Whiteshell, Colossal Skull, Lancewood Log, Relic Iron, Sparkling Stone','Tukuku Whiteshell',1,NULL,NULL,NULL,NULL,NULL);
@@ -2465,7 +2465,7 @@ INSERT INTO "monster" VALUES (2446,'Lesser Manticore','Manticores',NULL,'Eastern
 INSERT INTO "monster" VALUES (2447,'Desert Manticore','Manticores','Warrior','Western Altepa Desert',1,0,0,0,53,57,1,0,0,0,0,0,0,0,'water','',NULL,'Manticore Fang, Manticore Hair, Manticore Hide','',16,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2448,'Labyrinth Manticore','Manticores',NULL,'Labyrinth of Onzozo',1,0,0,0,71,74,1,0,0,0,0,0,0,0,'water',NULL,NULL,'Manticore Fang, Manticore Hair, Manticore Hide','',6,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2449,'Valley Manticore','Manticores','','Valley of Sorrows',1,1,0,0,72,74,1,0,0,0,0,0,0,1,'water','',NULL,'Manticore Fang, Manticore Hair, Manticore Hide','',3,'5 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (2450,'Greater Manticore','Manticores',NULL,'Cape Teriggan',1,1,0,0,76,79,1,0,0,0,0,0,0,0,'water','',NULL,'Manticore Fang, Manticore Hair, Manticore Hide','Manticore Hair',29,'5 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (2450,'Greater Manticore','Manticores',NULL,'Cape Teriggan',1,0,0,0,76,79,1,0,0,0,0,0,0,0,'water','',NULL,'Manticore Fang, Manticore Hair, Manticore Hide','Manticore Hair',29,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2451,'Greater Manticore','Manticores',NULL,'Zhayolm Remnants',1,0,0,0,'???','???',1,0,0,0,0,0,0,0,'water','',NULL,'','',2,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2452,'Coastal Opo-opo','Opo-opo','','Bibiki Bay',0,1,0,0,36,39,0,0,0,0,0,0,0,0,'ice',NULL,NULL,'Pamamas, Pebble, Elshimo Coconut, Thundermelon','Pamamas',3,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2453,'Temple Opo-opo','Opo-opo','','Temple of Uggalepih',0,1,0,0,51,54,0,0,0,0,0,0,0,0,'ice',NULL,NULL,'Kazham Pineapple, Pamamas, Pebble, Thundermelon','Pamamas, Pamamas',3,'16 minutes',NULL,NULL,NULL,NULL);
@@ -2508,7 +2508,7 @@ INSERT INTO "monster" VALUES (2489,'Gigas''s Tiger','Tiger','','Xarcabard [S]',0
 INSERT INTO "monster" VALUES (2490,'Gigas''s Tiger','Tiger','','Beaucedine Glacier',0,1,0,0,'???','???',1,0,0,0,0,0,0,1,'fire, lightning',NULL,NULL,'','',1,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2491,'Gigas''s Tiger','Tiger','','Xarcabard',0,1,0,0,'???','???',1,0,0,0,0,0,0,1,'fire, lightning',NULL,NULL,'','',1,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2492,'Tundra Tiger','Tiger','Warrior','Beaucedine Glacier',1,0,0,0,34,37,1,0,0,0,0,0,0,1,'fire, lightning',NULL,NULL,'Black Tiger Fang, Tiger Hide','Land Crab Meat',50,'5 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (2493,'Ovinnik','Tiger','','Kuftal Tunnel',1,0,0,0,77,79,1,0,0,0,0,0,0,1,'fire, lightning','ice',NULL,'Black Tiger Fang, Tiger Hide, Ovinnik Hide','Land Crab Meat',3,'16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (2493,'Ovinnik','Tiger','','Kuftal Tunnel',1,0,0,0,77,79,1,0,0,0,0,0,0,1,'fire, lightning',NULL,NULL,'Black Tiger Fang, Tiger Hide, Ovinnik Hide','Land Crab Meat',3,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2494,'Nue','Tigers','','Beaucedine Glacier',1,0,1,0,41,42,1,0,0,0,0,0,0,1,'',NULL,NULL,'Black Tiger Fang, Nue Fang, Tiger Hide','Land Crab Meat',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2495,'Gerjis','Tigers','','Horlais Peak',1,0,1,0,'???','???',1,0,0,0,0,0,0,1,'',NULL,NULL,'','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2496,'Badshah','Tigers','','Batallia Downs',1,0,1,0,9,9,1,0,0,0,0,0,0,0,'',NULL,NULL,'','',9,NULL,NULL,NULL,NULL,NULL);
@@ -2536,15 +2536,15 @@ INSERT INTO "monster" VALUES (2517,'War Lizard','Lizard','Warrior','Davoi',0,1,0
 INSERT INTO "monster" VALUES (2518,'War Lizard','Lizard','Warrior','Fort Karugo-Narugo [S]',0,1,0,0,40,43,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Skin, Lizard Tail, Lizard Egg','Lizard Egg',11,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2519,'War Lizard','Lizard','Warrior','Grauberg [S]',0,1,0,0,39,43,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Skin, Lizard Tail, Lizard Egg','Lizard Egg',29,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2520,'War Lizard','Lizard','Warrior','La Vaule [S]',0,1,0,0,71,73,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail','Lizard Egg',11,'16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (2521,'Ivory Lizard','Lizard','Warrior','Yuhtunga Jungle',0,1,0,0,32,35,0,1,0,0,0,0,0,0,'wind, ice',NULL,NULL,'Elshimo Marble, Lizard Egg, Lizard Skin, Lizard Tail','',35,'5 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (2521,'Ivory Lizard','Lizard','Warrior','Yuhtunga Jungle',0,1,0,0,32,35,0,1,0,0,0,0,0,0,'',NULL,NULL,'Elshimo Marble, Lizard Egg, Lizard Skin, Lizard Tail','',35,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2522,'Geezard','Lizard','Warrior','Davoi',1,1,0,0,34,37,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Skin, Lizard Tail, Lizard Egg','Lizard Egg',3,'16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (2523,'White Lizard','Lizard','Warrior','Yhoator Jungle',0,1,0,0,36,39,0,1,0,0,0,0,0,0,'wind, ice',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail','',3,'5 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (2523,'White Lizard','Lizard','Warrior','Yhoator Jungle',0,1,0,0,36,39,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail','',3,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2524,'Chasm Lizard','Lizard','Warrior','Attohwa Chasm',0,1,0,0,40,42,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail','Lizard Egg',3,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2525,'Maze Lizard','Lizard','Warrior','Crawlers'' Nest',0,1,0,0,42,45,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail','Lizard Egg',6,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2526,'Maze Lizard','Lizard','Warrior','Pso''Xja',0,1,0,0,43,45,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail','',16,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2527,'Bane Lizard','Lizard','Warrior','Attohwa Chasm',0,1,0,0,47,49,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail','Lizard Egg',3,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2528,'Snow Lizard','Lizard','Warrior','Pso''Xja',0,1,0,0,65,68,0,1,0,0,0,0,0,0,'',NULL,NULL,'Carmine Chip, Lizard Egg, Lizard Skin','Lizard Egg',6,'16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (2529,'Ash Lizard','Lizard','Warrior','Ifrit''s Cauldron',0,1,0,0,73,76,0,1,0,0,0,0,0,0,'wind, ice',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail, Rattling Egg','',3,'16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (2529,'Ash Lizard','Lizard','Warrior','Ifrit''s Cauldron',0,1,0,0,73,76,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail, Rattling Egg','',3,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2530,'Frost Lizard','Lizard','Warrior','Pso''Xja',0,1,0,0,73,77,0,1,0,0,0,0,0,0,'',NULL,NULL,'Carmine Chip, Lizard Egg, Lizard Skin','Lizard Egg',6,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2531,'Tormentor','Lizard','Warrior','Den of Rancor',0,1,0,0,75,79,0,1,0,0,0,0,0,0,'',NULL,NULL,'Lizard Egg, Lizard Skin, Lizard Tail','',3,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (2532,'Deinonychus','Raptors','Warrior','Kuftal Tunnel',1,0,0,0,65,68,0,1,0,0,0,0,0,1,'water','',NULL,'Kuftal Coffer Key, Raptor Skin','Raptor Skin',26,'16 minutes',NULL,NULL,NULL,NULL);
@@ -7766,7 +7766,7 @@ INSERT INTO "monster" VALUES (7763,'Lizardtrap','Flytrap','Black Mage','Aydeewa 
 INSERT INTO "monster" VALUES (7764,'Rogue Receptacle','Magic Pot','Thief','Ro''Maeve',0,0,1,0,67,67,0,0,0,0,0,0,0,0,'',NULL,NULL,'Lyricist''s Gonnelle','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (7765,'Cookieduster Lipiroon','Qiqirn','Thief','Alzadaal Undersea Ruins',0,0,1,0,'???','???',0,0,0,0,0,0,0,0,'',NULL,NULL,'Lyft Crossbow','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (7766,'Laelaps','Hounds','Warrior','The Eldieme Necropolis [S]',1,0,1,0,'???','???',0,1,0,1,0,0,0,0,'','',NULL,'Aptant: Haelan','',1,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (7767,'Donggu','Funguars','Warrior','Ordelle''s Caves',0,0,1,0,42,44,0,0,0,0,0,0,0,1,'',NULL,NULL,'Fidelity Earring','',9,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (7767,'Donggu','Funguars','Warrior','Ordelle''s Caves',0,0,1,0,42,44,0,0,0,0,0,0,0,0,'',NULL,NULL,'Fidelity Earring','',9,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (7768,'Konjac','Slime','Warrior','Toraimarai Canal',1,1,1,0,78,78,0,1,0,0,0,0,0,0,'',NULL,NULL,'Aptant: Aecus','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (7769,'Trembler Tabitha','Worm','BLM','Maze of Shakhrami',1,0,1,0,'???','???',0,1,0,0,0,0,0,0,'',NULL,NULL,'Grimy Bronze Sheet','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (7770,'Vasiliceratops','Wivre','','Grauberg [S]',0,0,1,0,89,89,1,1,0,0,0,0,0,1,'','',NULL,'Lyft Voulge','',1,NULL,NULL,NULL,NULL,NULL);
@@ -8123,7 +8123,7 @@ INSERT INTO "monster" VALUES (8123,'Observer','Spheroid','Warrior','Abyssea - Mi
 INSERT INTO "monster" VALUES (8124,'Brine Crab','Crabs','Paladin','Abyssea - Misareaux',1,0,0,0,'???','???',0,1,0,0,0,0,0,0,'ice, lightning',NULL,NULL,'Powder Casket','',0,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8125,'Vauxia Fly','Fly','Warrior','Caedarva Mire',0,1,0,0,86,86,0,1,0,0,0,0,0,0,'ice, piercing',NULL,NULL,'','',15,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8126,'Ketea','Hpemde','Thief','Abyssea - Vunkerl',0,0,1,0,'???','???',0,0,0,0,0,0,0,0,'',NULL,NULL,'Exequy Gun, Schellenband, Card of Voyage, Coin of Voyage','',1,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8127,'Athamas','Spider','RDM','Abyssea - Misareaux',1,1,1,0,80,90,0,0,0,0,0,0,1,0,NULL,NULL,NULL,'Diabolos''s Rope, Charis Seal: Legs DNC, Iga Seal: Legs NIN, Raider''s Seal: Legs THF, Tantra Seal: Legs MNK',NULL,NULL,NULL,NULL,NULL,'http://wiki.ffxiclopedia.org/wiki/Abyssea_-_Misareaux',NULL);
+INSERT INTO "monster" VALUES (8127,'Athamas','Spider','RDM','Abyssea - Misareaux',1,1,1,0,80,90,0,0,0,0,0,0,1,0,NULL,NULL,NULL,'Diabolos''s Rope, Charis Seal: Legs DNC, Iga Seal: Legs NIN, Raider''s Seal: Legs THF, Tantra Seal: Legs MNK',NULL,NULL,NULL,NULL,NULL,'http://wiki.ffxiclopedia.org/wiki/Abyssea_-_Misareaux','');
 INSERT INTO "monster" VALUES (8128,'Ironclad Executioner','Iron Giants','','Abyssea - Vunkerl',1,0,1,0,80,90,0,0,0,0,0,1,1,0,'',NULL,NULL,'','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8129,'Aqueduct Spider','Spider','WAR','Sacrarium',0,0,0,0,83,85,0,1,0,0,0,0,0,0,'ice',NULL,NULL,'Water Spider''s Web',NULL,NULL,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8130,'Aqueduct Spider','Spider','WAR','Phomiuna Aqueducts',0,0,0,0,84,85,0,1,0,0,0,0,0,0,'ice',NULL,NULL,'Water Spider''s Web',NULL,NULL,'16 minutes',NULL,NULL,NULL,NULL);
@@ -8339,22 +8339,22 @@ INSERT INTO "monster" VALUES (8356,'Grenade','Bomb','WAR','Konschtat Highlands',
 INSERT INTO "monster" VALUES (8357,'Grenade','Bomb','WAR','La Theine Plateau',1,0,0,0,15,17,1,0,1,0,0,0,0,0,'Fire','Ice, Wind, Earth, Lightning, Water, Light, Dark',NULL,'bomb ash, bomb arm',NULL,4,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8358,'Grenade','Bomb','WAR','Tahrongi Canyon',1,0,0,0,15,17,1,0,1,0,0,0,0,0,'Fire','Ice, Wind, Earth, Lightning, Water, Light, Dark',NULL,'bomb ash, bomb arm',NULL,5,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8359,'Orcish Nightraider','Orc','Ranger','Davoi',1,1,0,0,34,38,1,0,0,0,0,0,0,1,'water',NULL,NULL,'Jade Cryptex, Studded Gear','Silver Beastcoin',19,'16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8360,'Colliery Bat','Giant Bat','Warrior','Zeruhn Mines',0,0,0,0,75,80,0,1,0,0,0,0,0,0,'light, wind, piercing','dark',NULL,'Bat Wing, Zeruhn Soot, Bat Fang','','','16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8361,'Burrower Worm','Worm','BLM','Zeruhn Mines',0,0,0,0,75,79,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'Flint Stone, Zeruhn Soot, Zinc Ore, Silver Ore','','','16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8360,'Colliery Bat','Giant Bat','Warrior','Zeruhn Mines',0,0,0,0,75,80,0,1,0,0,0,0,0,0,'light, wind, piercing','',NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8361,'Burrower Worm','Worm','BLM','Zeruhn Mines',0,0,0,0,75,79,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8362,'Soot Crab','Crab','Paladin','Zeruhn Mines',0,0,0,0,75,78,0,1,0,0,0,0,0,0,'ice, lightning',NULL,NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8363,'Veindigger Leech','Leeches','','Zeruhn Mines',0,1,0,0,75,80,0,1,0,0,0,0,0,1,'light','water, blunt',NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8364,'Ghelsba Pugil','Pugil','Warrior','Ghelsba Outpost',1,0,0,0,3,6,0,1,0,0,0,0,0,0,'ice, lightning','',NULL,'Pugil Scales, Shall Shell','Fish Scales',15,'5 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8365,'Trimmer','Crab','Paladin','Dangruf Wadi',0,0,0,0,92,95,0,1,0,0,0,0,0,0,'ice, lightning',NULL,NULL,'Land Crab Meat, Fossilized Fang','','','16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8366,'Prim Pika','Rabbit','Thief','Dangruf Wadi',0,1,0,0,85,90,1,0,0,0,0,0,0,1,'water, dark, lightning',NULL,NULL,'Hare Meat','','','16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8367,'Witchetty Grub','Worm','BLM','Dangruf Wadi',0,1,0,0,85,90,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'Sulfur, Flint Stone, Zinc Ore','','','16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8365,'Trimmer','Crab','Paladin','Dangruf Wadi',0,0,0,0,92,95,0,1,0,0,0,0,0,0,'ice, lightning',NULL,NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8366,'Prim Pika','Rabbit','Thief','Dangruf Wadi',0,1,0,0,85,90,1,0,0,0,0,0,0,1,'water, dark, lightning',NULL,NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8367,'Witchetty Grub','Worm','BLM','Dangruf Wadi',1,1,0,0,85,90,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8368,'Goblin Healer','Goblin','White Mage','Dangruf Wadi',1,1,0,0,85,90,1,0,0,0,0,0,0,0,'light',NULL,NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8369,'Wekufe','Ghost','Black Mage','Fei''Yin',1,1,0,0,95,99,0,1,0,1,0,0,0,0,'light, fire','water, dark, wind, slashing, blunt, piercing',NULL,'','',20,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8370,'Sentient Carafe','Magic Pot','Red Mage','Fei''Yin',1,0,0,0,95,99,0,0,1,0,0,0,0,0,'blunt',NULL,NULL,'Magic Pot Shard, Mercury','',10,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8371,'Balayang','Giant Bats','Warrior','Fei''Yin',0,0,0,0,95,99,0,1,0,0,0,0,0,0,'light, wind, piercing','',NULL,'Bat Fang, Bat Wing, Fiend Blood','',17,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8372,'Tococo','Bird','','South Gustaberg',0,1,1,0,4,5,0,1,0,0,0,0,0,0,'ice, piercing',NULL,NULL,'Armiger''s Lace','',1,'Timed: 60~70 min',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8373,'Leaping Lizzy','Lizard','Warrior','South Gustaberg',0,1,0,0,10,11,0,1,0,0,0,0,0,0,'Wind, Ice',NULL,NULL,'Bounding Boots, Lizard Skin, Lizard Tail','Lizard Egg',1,'Lottery Spawn: 5+minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8374,'Goblin Brigand','Goblin','Thief','Dangruf Wadi',1,1,0,0,86,89,1,0,0,0,0,0,0,0,'light',NULL,NULL,'Goblin Mask, Goblin Armor','','','16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8375,'Goblin Headsman','Goblin','Warrior','Dangruf Wadi',1,1,0,0,86,90,1,0,0,0,0,0,0,0,'light',NULL,NULL,'Goblin Mail, Goblin Helm, Scale Finger Gauntlets','','','16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8374,'Goblin Brigand','Goblin','','Dangruf Wadi',1,1,0,0,86,89,1,0,0,0,0,0,0,0,'light',NULL,NULL,'Goblin Mask, Goblin Armor','','','16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8375,'Goblin Headsman','Goblin','Warrior','Dangruf Wadi',1,1,0,0,86,90,1,0,0,0,0,0,0,0,'light',NULL,NULL,'Goblin Mail, Goblin Helm','','','16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8376,'Goblin Healer','Goblin','White Mage','Dangruf Wadi',1,1,0,0,86,90,1,0,0,0,0,0,0,0,'light',NULL,NULL,'Goblin Mask, Goblin Armor','','','16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8377,'Bilesucker','Giant Bat','Warrior','Ranguemont Pass',1,0,0,0,87,92,0,1,0,0,0,0,0,0,'light, wind, piercing','Dark',NULL,'Bat Wing','',6,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8378,'Blind Bat','Giant Bat','','Bostaunieux Oubliette',1,0,0,0,95,97,0,1,0,0,0,0,0,0,'light, wind, piercing',NULL,NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
@@ -8384,9 +8384,9 @@ INSERT INTO "monster" VALUES (8402,'Ogre Bat','Giant Bat','Warrior','King Ranper
 INSERT INTO "monster" VALUES (8403,'Ossuary Worm','Worm','Black Mage','King Ranperre''s Tomb',0,0,0,0,78,80,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'Copper Ore, Flint Stone, Gold Ore, Iron Ore, Mythril Ore, Silver Ore, Zinc Ore','Pebble',28,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8404,'Spartoi Sorcerer','Skeleton','Black Mage','King Ranperre''s Tomb',1,0,0,0,80,82,0,1,0,1,0,0,0,0,'light, fire, blunt','dark, ice, piercing',NULL,'Scrolls of Blizzaga II, III, Blizzard III, Blizzard IV and Freeze','',25,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8405,'Spartoi Warrior','Skeleton','Warrior','King Ranperre''s Tomb',1,0,0,0,78,80,0,1,0,1,0,0,0,0,'light, fire, blunt','dark, ice, piercing',NULL,'Bone Chip, Revival Tree Root','',26,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8406,'Buds Bunny','Rabbit','Thief','Ordelle''s Caves',0,1,0,0,83,89,1,0,0,0,0,0,0,0,'water, dark, lightning',NULL,NULL,'Hare Meat, Rabbit Hide','',25,'16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8407,'Targe Beetle','Beetle','Paladin','Ordelle''s Caves',0,1,0,0,83,89,1,0,0,0,0,0,0,0,'ice, light',NULL,NULL,'Beetle Shell, Beetle Jaw, Insect Wing','',30,'16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8408,'Swagger Spruce','Sapling','Warrior','Ordelle''s Caves',0,1,0,0,83,89,0,1,0,0,0,0,0,0,'dark, fire',NULL,NULL,'Grain Seeds, Herb Seeds, Treant Bulb, Vegetable Seeds','',25,'16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8406,'Buds Bunny','Rabbit','Thief','Ordelle''s Caves',0,1,0,0,83,89,1,0,0,0,0,0,0,1,'water, dark, lightning',NULL,NULL,'','',25,'16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8407,'Targe Beetle','Beetle','Paladin','Ordelle''s Caves',1,1,0,0,83,89,1,0,0,0,0,0,0,0,'ice, light',NULL,NULL,'','',30,'16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8408,'Swagger Spruce','Sapling','Warrior','Ordelle''s Caves',0,1,0,0,83,89,0,1,0,0,0,0,0,0,'dark, fire',NULL,NULL,'','',25,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8409,'Fetor Bats','Bat Trio','Warrior','Outer Horutoto Ruins',0,1,0,0,81,83,0,1,0,0,0,0,0,0,'light, wind, piercing','',NULL,'Bat Wing','','','5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8410,'Fuligo','Slimes','Warrior','Outer Horutoto Ruins',1,0,0,0,84,85,0,1,0,0,0,0,0,1,'fire','water, slashing, piercing, blunt',NULL,'Slime Oil','','','16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8411,'Thorn Bat','Giant Bat','Warrior','Outer Horutoto Ruins',1,1,0,0,82,85,0,1,0,0,0,0,0,0,'Wind, Light, piercing','dark',NULL,'Fidelity Mantle','',1,NULL,NULL,NULL,NULL,NULL);
@@ -8423,8 +8423,8 @@ INSERT INTO "monster" VALUES (8442,'Viseclaw','Crab','Paladin','The Boyahda Tree
 INSERT INTO "monster" VALUES (8443,'Morion Worm','Worm','BLM','Korroloka Tunnel',1,1,1,0,30,32,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'Ores, Morion Tathlum','',1,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8444,'Kuftal Delver','Worm','BLM','Kuftal Tunnel',0,1,0,0,99,103,0,1,0,0,0,0,0,0,'',NULL,NULL,'','','',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8445,'Machairodus','Tiger','','Kuftal Tunnel',1,0,0,0,99,103,1,0,0,0,0,0,0,1,'fire, lightning',NULL,NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8446,'Boulder Eater','Worm','BLM','Gustav Tunnel',0,1,0,0,100,102,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'Copper Ore, Fossilized Fang, Platinum Ore, Seasoning Stone, Tin Ore, Fat Worm Meat, Titanite','Copper Ore','','16 minutes',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8447,'Pygmytoise','Adamantoise','','Gustav Tunnel',1,0,1,0,102,103,0,1,0,0,0,0,0,0,'ice','lightning','','Adaman Ore','',8,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8446,'Boulder Eater','Worm','BLM','Gustav Tunnel',0,1,0,0,100,103,0,1,0,0,0,0,0,0,'wind, light','earth',NULL,'','','','16 minutes',NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8447,'Pygmytoise','Adamantoise','','Gustav Tunnel',1,0,1,0,100,103,0,1,0,0,0,0,0,0,'',NULL,NULL,'','',8,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8448,'Babaulas','Skeletons','Warrior','Labyrinth of Onzozo',1,0,0,0,95,98,0,1,0,1,0,0,0,0,'fire, light, blunt','dark, ice, slashing, piercing',NULL,'','',0,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8449,'Boribaba','Skeletons','BLM','Labyrinth of Onzozo',1,0,0,0,95,98,0,1,0,1,0,0,0,0,'fire, light, blunt','dark, ice, slashing, piercing',NULL,'','',0,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8450,'Tiny Mandragora','Mandragora','Monk','East Sarutabaruta',0,0,0,0,-1,0,0,1,0,0,0,0,0,0,'fire, wind, lightning, dark, ice, piercing',NULL,NULL,'Cornette, Four-Leaf Mandragora Bud, Two-Leaf Mandragora Bud, Yuhtunga Sulfur','Saruta Cotton',9,'5 minutes',NULL,NULL,NULL,NULL);
@@ -8601,9 +8601,6 @@ INSERT INTO "monster" VALUES (1000141,'Warder''s Xzomit',NULL,NULL,'Escha - Ru''
 INSERT INTO "monster" VALUES (1000142,'Wasserspeier','Gargouille','BLM','Escha - Ru''Aun',1,0,1,0,119,119,0,0,0,0,0,0,0,0,'Light',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1000143,'Yilan','Zilant',NULL,'Escha - Ru''Aun',1,0,1,0,'???','???',0,0,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1000144,'Yilan''s Dragon',NULL,NULL,'Escha - Ru''Aun',0,1,0,0,'???','???',0,0,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (1000145,'Morbolger','Morbol','Warrior','Ordelle''s Caves',0,0,1,0,42,44,0,1,0,0,0,0,0,0,'fire','water',NULL,'Morbolger Vine, Malboro Vine',NULL,1,'Timed: 60-120min',NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (1000146,'Bilis Leech','Leech','Warrior','Ordelle''s Caves',0,0,0,0,86,89,0,1,0,0,0,0,0,0,NULL,'dark, water',NULL,NULL,NULL,15,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (1000147,'Aura Butler','Doll',NULL,'The Shrine of Ru''Avitau',1,0,0,0,77,82,0,0,1,0,0,0,0,0,NULL,NULL,NULL,'Doll Shard, Vial of Mercury',NULL,47,NULL,NULL,NULL,NULL,NULL);
 CREATE INDEX IF NOT EXISTS "npc__zone__name" ON "npc" (
 	"zone",
 	"name",
