@@ -8123,7 +8123,7 @@ INSERT INTO "monster" VALUES (8123,'Observer','Spheroid','Warrior','Abyssea - Mi
 INSERT INTO "monster" VALUES (8124,'Brine Crab','Crabs','Paladin','Abyssea - Misareaux',1,0,0,0,'???','???',0,1,0,0,0,0,0,0,'ice, lightning',NULL,NULL,'Powder Casket','',0,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8125,'Vauxia Fly','Fly','Warrior','Caedarva Mire',0,1,0,0,86,86,0,1,0,0,0,0,0,0,'ice, piercing',NULL,NULL,'','',15,'5 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8126,'Ketea','Hpemde','Thief','Abyssea - Vunkerl',0,0,1,0,'???','???',0,0,0,0,0,0,0,0,'',NULL,NULL,'Exequy Gun, Schellenband, Card of Voyage, Coin of Voyage','',1,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8127,'Athamas','Spider','RDM','Abyssea - Misareaux',1,1,1,0,80,90,0,0,0,0,0,0,1,0,NULL,NULL,NULL,'Diabolos''s Rope, Charis Seal: Legs DNC, Iga Seal: Legs NIN, Raider''s Seal: Legs THF, Tantra Seal: Legs MNK',NULL,NULL,NULL,NULL,NULL,'http://wiki.ffxiclopedia.org/wiki/Abyssea_-_Misareaux',NULL);
+INSERT INTO "monster" VALUES (8127,'Athamas','Spider','RDM','Abyssea - Misareaux',1,1,1,0,80,90,0,0,0,0,0,0,1,0,NULL,NULL,NULL,'Diabolos''s Rope, Charis Seal: Legs DNC, Iga Seal: Legs NIN, Raider''s Seal: Legs THF, Tantra Seal: Legs MNK',NULL,NULL,NULL,NULL,NULL,'http://wiki.ffxiclopedia.org/wiki/Abyssea_-_Misareaux',"");
 INSERT INTO "monster" VALUES (8128,'Ironclad Executioner','Iron Giants','','Abyssea - Vunkerl',1,0,1,0,80,90,0,0,0,0,0,1,1,0,'',NULL,NULL,'','',1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8129,'Aqueduct Spider','Spider','WAR','Sacrarium',0,0,0,0,83,85,0,1,0,0,0,0,0,0,'ice',NULL,NULL,'Water Spider''s Web',NULL,NULL,'16 minutes',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8130,'Aqueduct Spider','Spider','WAR','Phomiuna Aqueducts',0,0,0,0,84,85,0,1,0,0,0,0,0,0,'ice',NULL,NULL,'Water Spider''s Web',NULL,NULL,'16 minutes',NULL,NULL,NULL,NULL);
@@ -8191,7 +8191,7 @@ INSERT INTO "monster" VALUES (8193,'Minaruja','Wyvern','','Abyssea - Grauberg',1
 INSERT INTO "monster" VALUES (8194,'Ningishzida','Hydra',NULL,'Abyssea - Grauberg',1,0,1,0,'???','???',0,0,0,0,0,0,0,0,NULL,NULL,NULL,'Mavi Seal:Body, Orison Seal:Body, Unkai Seal:Body, Ravager''s Seal:Body, Venomous Hydra Fang, Atman of Entwined Serpents',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8195,'Raja','Caturae',NULL,'Abyssea - Grauberg',1,0,1,0,'???','???',0,0,0,0,0,0,1,0,NULL,NULL,NULL,'Ace''s Mufflers, Schutzen Mittens, Portent Pants, Atman of the Despot, Battle Trophy:1st Echelon',NULL,1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8196,'Rencounter Chariot','Chariot',NULL,'Abyssea - Grauberg',1,1,1,0,'???','???',0,1,1,0,0,0,0,0,NULL,NULL,NULL,'Winged Mace, Sylvan Earring, Cascade Belt, Battle Trophy:4th Echelon',NULL,1,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8197,'Teekesselchen','Magic Pot',NULL,'Abyssea - Grauberg',1,0,1,0,'???','???',0,0,1,0,0,0,0,0,NULL,NULL,NULL,'Goetia Seal:Hands, Aoidos'' Seal:Hands, Caller''s Seal:Hands, Cirque Seal:Hands, Teekesselchen fragment, Battle Trophy:4th Echelon',NULL,1,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8197,'Teekesselchen','Magic Pot',NULL,'Abyssea - Grauberg',1,0,1,0,'83','83',0,0,1,0,0,0,0,0,NULL,NULL,NULL,'Goetia Seal:Hands, Aoidos'' Seal:Hands, Caller''s Seal:Hands, Cirque Seal:Hands, Teekesselchen fragment, Battle Trophy:4th Echelon',NULL,1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8198,'Teugghia','Pixie',NULL,'Abyssea - Grauberg',1,0,1,0,'???','???',0,0,0,0,0,0,0,0,NULL,NULL,NULL,'Goetia Seal:Body, Iga Seal:Body, Bale Seal:Body, Lancer''s Seal:Body, Atman of the Fallen One, Battle Trophy:4th Echelon',NULL,1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8199,'Xilbalba','Skeleton',NULL,'Abyssea - Grauberg',1,0,1,0,'???','???',0,0,0,0,0,1,1,0,NULL,NULL,NULL,'Sylvan Seal:Hands, Estoqueur''s Seal:Hands, Savant''s Seal:Hands, Ferine Seal:Hands, Ominous Skull, Deroblade Mittens, Indigo Abyssite of Merit',NULL,1,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8200,'Dark Elemental','Elemental',NULL,'Abyssea - Grauberg',1,0,1,0,90,99,0,0,1,0,0,0,0,0,NULL,NULL,NULL,'Colorful Demilune Abyssite',NULL,1,NULL,NULL,NULL,NULL,NULL);
@@ -8224,8 +8224,8 @@ INSERT INTO "monster" VALUES (8226,'Pond Amoeban','Amoeban','','Abyssea - Graube
 INSERT INTO "monster" VALUES (8227,'Putrid Peapuk','Puk','','Abyssea - Grauberg',1,0,0,0,'???','???',1,1,0,0,0,0,0,0,'ice, piercing',NULL,NULL,'',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8228,'Seelie','Pixie','','Abyssea - Grauberg',0,1,0,0,'???','???',1,0,0,0,0,0,0,0,'',NULL,NULL,'',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8229,'Sensenmann','Skeleton','','Abyssea - Grauberg',1,0,0,0,'???','???',0,1,0,1,0,0,0,0,'fire, light, blunt','dark, ice, slashing, piercing',NULL,'',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8230,'Sinister Seidel','Magic Pot','','Abyssea - Grauberg',1,0,0,0,'???','???',0,0,1,0,0,0,0,0,'blunt',NULL,NULL,'',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "monster" VALUES (8231,'Stygian Djinn','Djinn','','Abyssea - Grauberg',1,0,0,0,'???','???',1,0,1,0,0,0,0,0,'fire','ice, wind, earth, lightning, water, light, dark',NULL,'Darkflame Arm, Djinn Arm, Djinn Ash',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8230,'Sinister Seidel','Magic Pot','','Abyssea - Grauberg',1,0,0,0,'85','100',0,0,1,0,0,0,0,0,'blunt',NULL,NULL,'',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (8231,'Stygian Djinn','Djinn','','Abyssea - Grauberg',1,0,0,0,'85','100',1,0,1,0,0,0,0,0,'fire','ice, wind, earth, lightning, water, light, dark',NULL,'Darkflame Arm, Djinn Arm, Djinn Ash',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8232,'Ungeweder','Hybrid Elemental','BLM','Abyssea - Grauberg',1,0,0,0,'???','???',0,0,1,0,0,0,0,0,'',NULL,NULL,'',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8233,'Unseelie','Pixie','','Abyssea - Grauberg',1,0,0,0,'???','???',1,0,1,0,0,0,0,0,'',NULL,NULL,'',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (8234,'Anemic Aloysius','Worm','BLM','Abyssea - Uleguerand',1,0,1,0,'???','???',0,0,0,0,0,0,0,0,NULL,NULL,NULL,'Haven Hose, Amicus Grip, Battle Trophy:5th Echelon',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
@@ -8604,6 +8604,32 @@ INSERT INTO "monster" VALUES (1000144,'Yilan''s Dragon',NULL,NULL,'Escha - Ru''A
 INSERT INTO "monster" VALUES (1000145,'Morbolger','Morbol','Warrior','Ordelle''s Caves',0,0,1,0,42,44,0,1,0,0,0,0,0,0,'fire','water',NULL,'Morbolger Vine, Malboro Vine',NULL,1,'Timed: 60-120min',NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1000146,'Bilis Leech','Leech','Warrior','Ordelle''s Caves',0,0,0,0,86,89,0,1,0,0,0,0,0,0,NULL,'dark, water',NULL,NULL,NULL,15,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "monster" VALUES (1000147,'Aura Butler','Doll',NULL,'The Shrine of Ru''Avitau',1,0,0,0,77,82,0,0,1,0,0,0,0,0,NULL,NULL,NULL,'Doll Shard, Vial of Mercury',NULL,47,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000148,'Demonic Pugil','Pugil',NULL,'Den of Rancor',1,1,0,0,NULL,NULL,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000149,'Flavescent Slime','Slimes',NULL,'Rala Waterways',1,0,0,0,101,103,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000150,'Chalybeous Slime','Slimes',NULL,'Rala Waterways',1,0,0,0,101,103,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000151,'Pewter Diremite','Diremites',NULL,'Rala Waterways',1,1,0,0,101,102,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000152,'Baleful Tarichuk','Efts',NULL,'Rala Waterways',1,1,0,0,101,102,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000153,'Wanton Danaid','Pixies',NULL,'Reisenjima',1,0,0,0,122,124,0,1,0,0,0,0,0,0,NULL,NULL,NULL,'Taupe Stone',NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000154,'Perfervid Naraka',NULL,NULL,'Reisenjima',1,0,0,0,123,125,0,0,0,0,0,1,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000155,'Hoary Craklaw','Craklaws',NULL,'Foret de Hennetiel',1,0,0,0,103,104,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000156,'Glutinous Clot','Slimes',NULL,'Foret de Hennetiel',1,0,0,0,103,104,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000157,'Velkk Sage','Velkk','Black Mage','Foret de Hennetiel',1,1,0,0,104,106,0,1,0,0,0,0,0,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000158,'Velkk Destructeur','Velkk','Warrior','Foret de Hennetiel',1,1,0,0,105,107,0,1,0,0,0,0,0,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000159,'Scummy Slug','Slugs',NULL,'Foret de Hennetiel',1,0,0,0,102,104,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000160,'Numbing Blossom','Blossoms',NULL,'Foret de Hennetiel',0,0,0,0,NULL,NULL,0,0,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000161,'Apex Jagil','Pugil','Warrior','Dho Gates',0,1,0,0,125,133,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000162,'Ripsaw Jagil','Pugil','Warrior','Dho Gates',1,1,0,0,105,106,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000163,'Leafdancer Twitherym','Twitherym',NULL,'Dho Gates',0,0,0,0,103,105,1,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000164,'Apex Crab','Crab',NULL,'Dho Gates',0,0,0,0,128,130,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000165,'Apex Bats','Bat Trios',NULL,'Dho Gates',1,0,0,0,128,130,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000166,'Apex Craklaw','Craklaw','Warrior','Dho Gates',1,0,0,0,128,130,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000167,'Unyielding Tarichuk','Efts','Warrior','Dho Gates',1,1,0,0,121,123,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000168,'Spinescent Protuberance','Protuberances',NULL,'Dho Gates',1,0,0,0,NULL,NULL,0,0,0,0,0,0,1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000169,'Void Worm','Worms','Black Mage','Dho Gates',1,0,0,0,114,115,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000170,'Velkk Reaver','Velkk','Dark Knight','Dho Gates',1,1,0,0,106,107,1,0,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000171,'Duskprowlers','Bat Trios',NULL,'Dho Gates',1,1,0,0,105,106,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000172,'Twilight Bat','Giant Bats','Warrior','Dho Gates',1,1,0,0,105,106,0,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "monster" VALUES (1000173,'Firth Umbril','Umbrils',NULL,'Dho Gates',1,0,0,0,114,115,1,0,1,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 CREATE INDEX IF NOT EXISTS "npc__zone__name" ON "npc" (
 	"zone",
 	"name",
